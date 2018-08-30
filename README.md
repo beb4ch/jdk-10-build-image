@@ -1,0 +1,3 @@
+# README
+
+Our Oracle JDK 10 build image. Used because openjdk-10 docker images do not contain JavaFX so we can't build JavaFX apps. Hence, this image...
